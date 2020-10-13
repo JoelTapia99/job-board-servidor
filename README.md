@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## consideracion en el .env
+
+agregar las variables de los esquemas de la base de datos
+
+DB_SCHEMA=authentication
+DB_SCHEMA_IGNUG=ignug
+DB_SCHEMA_JOB_BOARD=job_board
+DB_SCHEMA_ATTENDANCE=attendance
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
