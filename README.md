@@ -11,10 +11,10 @@
 
 agregar las variables de los esquemas de la base de datos
 
-DB_SCHEMA=authentication
-DB_SCHEMA_IGNUG=ignug
-DB_SCHEMA_JOB_BOARD=job_board
-DB_SCHEMA_ATTENDANCE=attendance
+- DB_SCHEMA=authentication 
+- DB_SCHEMA_IGNUG=ignug
+- DB_SCHEMA_JOB_BOARD=job_board
+- DB_SCHEMA_ATTENDANCE=attendance
 
 ## About Laravel
 
